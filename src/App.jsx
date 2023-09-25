@@ -3,7 +3,7 @@ import './App.css'
 function App () {
   return (
     <div>
-      <header>
+      <header className='page'>
         <h1>Buscador de peliculas</h1>
         <form className='form'>
           <input placeholder='Avengers, Star Wars, The Matrix...' />
